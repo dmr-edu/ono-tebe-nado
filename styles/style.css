@@ -1,1 +1,6 @@
-/* место для вашего кода */
+@import './header.css';
+@import './cover.css';
+@import './lots.css';
+@import './common.css';
+@import './about.css';
+@import './footer.css';
