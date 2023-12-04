@@ -1,5 +1,10 @@
 /* Common */
 
+button:hover,
+a:hover {
+  cursor: pointer;
+}
+
 .app-wrapper {
   max-width: 1440px;
   margin: auto
@@ -337,6 +342,7 @@
 
 .footer__social-list {
   display: flex;
+  list-style: none;
 }
 
 .footer__social-list-item {
